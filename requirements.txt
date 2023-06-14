@@ -1,2 +1,4 @@
 lief
 loguru
+tabulate
+cppyy
